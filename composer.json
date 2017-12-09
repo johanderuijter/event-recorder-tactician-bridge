@@ -18,7 +18,7 @@
     ],
     "require": {
         "php" : "~7.0",
-        "jdr/event-recorder": "@dev",
+        "jdr/event-recorder": "^0.0.2",
         "league/tactician": "~1.0"
     },
     "require-dev": {
